@@ -12,6 +12,8 @@
         <Button x:Name="btnStudent" Content="Student" HorizontalAlignment="Left" Height="36" Margin="44,153,0,0" VerticalAlignment="Top" Width="66" Click="btnStudent_Click"/>
         <TextBox x:Name="txtAlbum" HorizontalAlignment="Left" Height="31" Margin="60,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="btnWiekszy" Content="ZnajdźWiększy" HorizontalAlignment="Left" Height="32" Margin="44,299,0,0" VerticalAlignment="Top" Width="109" Click="btnWiekszy_Click"/>
+        <Button x:Name="btnZadDom1" Content="Zad Dom 1" HorizontalAlignment="Left" Height="38" Margin="318,30,0,0" VerticalAlignment="Top" Width="86" Click="btnZadDom1_Click"/>
+        <ListBox x:Name="lbxLista" HorizontalAlignment="Left" Height="119" Margin="428,30,0,0" VerticalAlignment="Top" Width="153"/>
 
     </Grid>
 </Window>

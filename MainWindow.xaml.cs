@@ -79,5 +79,12 @@ namespace lab5
             MessageBox.Show($"Wynik: {r}, powinno być BB");
             MessageBox.Show($"Wynik: {s1.Nazwisko}, powinno być BBB");
         }
+
+        private void btnZadDom1_Click(object sender, RoutedEventArgs e)
+        {
+            Samochod sam = new Samochod(1000);
+            lbxLista.Items.Add(((IZmniejszany)sam).Zmien);
+            lbxLista.Items.Add(((IZwiekszany)sam).Zmien);
+        }
     }
 }
