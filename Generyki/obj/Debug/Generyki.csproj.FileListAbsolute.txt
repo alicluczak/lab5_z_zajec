@@ -1,0 +1,12 @@
+F:\c#\Generyki\bin\Debug\Generyki.dll
+F:\c#\Generyki\bin\Debug\Generyki.pdb
+F:\c#\Generyki\obj\Debug\Generyki.csproj.AssemblyReference.cache
+F:\c#\Generyki\obj\Debug\Generyki.csproj.CoreCompileInputs.cache
+F:\c#\Generyki\obj\Debug\Generyki.dll
+F:\c#\Generyki\obj\Debug\Generyki.pdb
+G:\c#\Generyki\bin\Debug\Generyki.dll
+G:\c#\Generyki\bin\Debug\Generyki.pdb
+G:\c#\Generyki\obj\Debug\Generyki.csproj.AssemblyReference.cache
+G:\c#\Generyki\obj\Debug\Generyki.csproj.CoreCompileInputs.cache
+G:\c#\Generyki\obj\Debug\Generyki.dll
+G:\c#\Generyki\obj\Debug\Generyki.pdb
